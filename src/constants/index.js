@@ -19,6 +19,7 @@ import {
   nike,
   promptopia,
   tripguide,
+  echo,
 } from "../assets";
 
 export const navLinks = [
@@ -217,6 +218,28 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/rlsmara/camp-travel",
     deploy_link: "https://travelcampguide.vercel.app/",
+  },
+  {
+    name: "Echo",
+    description:
+      "Created a comprehensive web application using ReactJS, TailwindCSS, and Appwrite, incorporating CRUD functionalities. Showcased expertise in developing a user-friendly interface with powerful features for enhanced user experience.",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: echo,
+    source_code_link: "https://github.com/rlsmara/echo",
+    deploy_link: "https://echo-circle.vercel.app/",
   },
 ];
 

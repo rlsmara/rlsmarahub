@@ -27,6 +27,7 @@ import dollartree from "./company/dollartree.png";
 import nike from "./nike.png";
 import promptopia from "./promptopia.png";
 import tripguide from "./tripguide.png";
+import echo from "./echo.png";
 
 export {
   logo_icon,
@@ -55,4 +56,5 @@ export {
   nike,
   promptopia,
   tripguide,
+  echo,
 };
