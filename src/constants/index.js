@@ -154,12 +154,12 @@ const experiences = [
 
 const projects = [
   {
-    name: "Nike Landing Page",
+    name: "Echo",
     description:
-      "Developed Nike Landing Page based on a tutorial using JavaScript, ReactJS, and Tailwind CSS. Demonstrated skills in replicating design and implementing interactivity.",
+      "Created a comprehensive web application using ReactJS, TailwindCSS, and Appwrite, incorporating CRUD functionalities. Showcased expertise in developing a user-friendly interface with powerful features for enhanced user experience.",
     tags: [
       {
-        name: "javascript",
+        name: "typescript",
         color: "blue-text-gradient",
       },
       {
@@ -171,9 +171,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: nike,
-    source_code_link: "https://github.com/rlsmara/nike-landing-page",
-    deploy_link: "https://rlsmara.github.io/nike-landing-page/",
+    image: echo,
+    source_code_link: "https://github.com/rlsmara/echo",
+    deploy_link: "https://echo-circle.vercel.app/",
   },
   {
     name: "Promptopia",
@@ -220,12 +220,12 @@ const projects = [
     deploy_link: "https://travelcampguide.vercel.app/",
   },
   {
-    name: "Echo",
+    name: "Nike Landing Page",
     description:
-      "Created a comprehensive web application using ReactJS, TailwindCSS, and Appwrite, incorporating CRUD functionalities. Showcased expertise in developing a user-friendly interface with powerful features for enhanced user experience.",
+      "Developed Nike Landing Page based on a tutorial using JavaScript, ReactJS, and Tailwind CSS. Demonstrated skills in replicating design and implementing interactivity.",
     tags: [
       {
-        name: "typescript",
+        name: "javascript",
         color: "blue-text-gradient",
       },
       {
@@ -237,9 +237,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: echo,
-    source_code_link: "https://github.com/rlsmara/echo",
-    deploy_link: "https://echo-circle.vercel.app/",
+    image: nike,
+    source_code_link: "https://github.com/rlsmara/nike-landing-page",
+    deploy_link: "https://rlsmara.github.io/nike-landing-page/",
   },
 ];
 
